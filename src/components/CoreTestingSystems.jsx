@@ -38,7 +38,7 @@ const CoreTestingSystems = () => {
             <div className="fade-in">
               <div className="relative h-full min-h-[500px] rounded-lg overflow-hidden">
                 <img 
-                  src="core_testing_image.jpg" 
+                  src="/core_testing_image.jpg" 
                   alt="Core Testing Systems at Enviro Forest"
                   className="w-full h-full object-cover"
                 />

@@ -89,7 +89,7 @@ const EnvironmentalServices = () => {
                   <div key={index} className={index > 0 ? "mt-10" : ""}>
                     <div className="flex items-start mb-4">
                       <img 
-                        src="environment.jpg"
+                        src="/environment.jpg"
                         alt="Environmental Services at Enviro Forest"
                         className="w-12 h-12 mr-4 flex-shrink-0"
                          

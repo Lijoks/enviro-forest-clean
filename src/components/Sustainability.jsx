@@ -12,7 +12,7 @@ const Sustainability = () => {
             <div className="fade-in">
               <div className="relative h-full min-h-[400px] rounded-lg overflow-hidden">
                 <img 
-                  src="sustainable_image.jpg" 
+                  src="/sustainable_image.jpg" 
                   alt="Sustainability at Enviro Forest"
                   className="w-full h-full object-cover"
                 />
